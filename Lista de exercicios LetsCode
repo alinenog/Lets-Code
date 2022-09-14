@@ -1,0 +1,41 @@
+01- Considere um programa que deve classificar um número como par ou ímpar e, além disso,
+lassificar ele como menor do que 100 ou maior ou igual a 100. Escreva um programa que faça
+essa classificação corretamente.
+
+02- Suponha que uma pessoa possa se aposentar pelo INSS caso atenda alguma das situações abaixo:
+• É do gênero masculino, possui pelo menos 65 anos e pelo menos 10 anos de contribuição.
+• É do gênero masculino, possui pelo menos 63 anos e pelo menos 15 anos de contribuição.
+• É do gênero feminino, possui pelo menos 63 anos e pelo menos 10 anos de contribuição.
+• É do gênero feminino, possui pelo menos 61 anos e pelo menos 15 anos de contribuição.
+Crie um programa que leia um caractere (‘M’ ou ‘F’), que representa o gênero de um indivíduo,
+e dois inteiros, que representam a idade e o tempo de contribuição. O programa deverá então imprimir
+“Aposentável” se o indivíduo atender uma das situações acima. Caso contrário, o programa deverá imprimir “Não Aposentável”.
+
+03- Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando a
+s seguintes fórmulas:
+• Para homens: (72.7h) - 58
+• Para mulheres: (62.1h) - 44.7
+
+04-Faça um Programa que pergunte o quanto você ganha por hora e o número de horas trabalhadas no mês.
+ Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o
+ Imposto de Renda, 8% para o INSS e 5% para o sindicato.
+
+O programa deve nos informar:
+
+A. salário bruto.
+B. quanto pagou ao INSS.
+C. quanto pagou ao sindicato.
+D. o salário líquido.
+
+Calcule os descontos e o salário líquido, conforme a tabela abaixo:
+
++ Salário Bruto : R$
+- IR (11%) : R$
+- INSS (8%) : R$
+- Sindicato ( 5%) : R$
+= Salário Liquido : R$
+
+Obs.: Salário Bruto - Descontos = Salário Líquido.
+
+05-Faça um programa que leia um número n. Após isso, o seu programa deve ler uma sequência
+ de n números e imprimir uma mensagem indicando se a sequência lida está ordenada de forma crescente ou não
